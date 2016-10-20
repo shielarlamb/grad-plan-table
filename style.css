@@ -1,1 +1,84 @@
-
+        h1 {
+            font-family: Arial, sans-serif;
+            font-weight: bold;
+            text-align: center;
+            font-size: 2em;
+        }
+        
+        p {
+            font-family: Arial, sans-serif;
+            margin: auto;
+            padding: 50px;
+        }
+        
+        main {
+            margin: auto;
+            padding: 5px;
+        }
+        
+        nav {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        
+        nav a {
+            text-decoration: none;
+            font-weight: bold;
+            padding: 30px;
+        }
+        
+        table {
+            margin: auto;
+            border: 2px solid #262619;
+            width: 800px;
+            border-spacing: 0;
+        }
+        
+        td,
+        th {
+            border: 1px solid #646464;
+        }
+        
+        caption {
+            font-family: Verdana, sans-serif;
+            font-weight: bold;
+            font-size: 1.5em;
+        }
+        
+        tbody {
+            font-family: Arial, sans-serif;
+        }
+        
+        thead:first-of-type {
+            font-family: Tahoma, sans-serif;
+            background-color: #B20000;
+            color: #f7e5e5;
+            font-weight: bold;
+            text-align: center;
+        }
+        
+        tr:nth-of-type(even) {
+            background-color: #dfdfbf;
+        }
+        
+        .semcol {
+            background-color: #4cffff;
+            color: #00007f;
+            font-family: Arial, sans-serif;
+            width: 130px;
+        }
+        
+        tfoot {
+            text-align: right;
+            color: #003333;
+            font-family: Arial, sans-serif;
+            font-weight: bold;
+            background-color: #a6a64c;
+        }
+        
+        footer {
+            text-align: center;
+            font-size: .9em;
+            font-family: Arial, sans-serif;
+            font-style: italic;
+        }
